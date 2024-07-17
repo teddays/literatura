@@ -19,6 +19,7 @@ En nuestro paquete service encontramos la clase para obtener los datos por nuest
   <li>Libreria Jackson</li>
   <li>IDE(IntelliJ o del su preferencia)</li>
   <li>Spring</li>
+  <li>Postgresql</li>
   <li>Dependencias de Spring</li>
     <ol>spring-boot-starter</ol>
     <ol>pring-boot-starter-data-jpa</ol>
